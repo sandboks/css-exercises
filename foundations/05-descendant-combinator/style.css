@@ -4,3 +4,14 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* Copied from the solution, it's worth noting that we can use other selectors to do this.
+
+Below are some other possible descendant combinators:
+
+div p
+div > p
+div .text
+.container p
+
+*/
