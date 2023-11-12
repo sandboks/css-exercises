@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 10px;
 }
 
@@ -21,9 +22,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
-  padding: 20px;
+  padding: 0px;
   gap: 18px;
+  margin: 0;
 }
 
 a {
